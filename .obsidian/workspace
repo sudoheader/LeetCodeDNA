@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "c0ba378ebdb5f235",
+    "type": "split",
+    "children": [
+      {
+        "id": "21787342f3260a96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Kth Largest Element in an Array.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5c7bced8b636415a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week 1/1. String Manipulation/125. Valid Palindrome.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "021b7fde65a628ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8a522d148f0a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93506e94e46eb143",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdb89f535d4e014e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b83de8cb2bd8677a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a433a70115cf998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f53589fbc5390522",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kth Largest Element in an Array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "21787342f3260a96",
+  "lastOpenFiles": [
+    "Kth Largest Element in an Array.md",
+    "Untitled.md",
+    "Week 1/1. String Manipulation/344. Reverse String.md",
+    "Week 2/1. Trees/98. Validate Binary Search Tree.md",
+    "Week 2/1. Trees/Problems.md",
+    "Week 1/1. String Manipulation/14. Longest Common Prefix.md",
+    "Week 1/1. String Manipulation/Problems.md",
+    "Excalidraw/14. Longest Common Prefix.excalidraw.md",
+    "Excalidraw/344. Reverse String.excalidraw.md",
+    "Week 1/1. String Manipulation/125. Valid Palindrome.md"
+  ]
+}
