@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kth Largest Element in an Array.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kth Largest Element in an Array.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "21787342f3260a96",
   "lastOpenFiles": [
+    "README.md",
     "Kth Largest Element in an Array.md",
     "Untitled.md",
     "Week 1/1. String Manipulation/344. Reverse String.md",
@@ -109,7 +110,6 @@
     "Week 1/1. String Manipulation/14. Longest Common Prefix.md",
     "Week 1/1. String Manipulation/Problems.md",
     "Excalidraw/14. Longest Common Prefix.excalidraw.md",
-    "Excalidraw/344. Reverse String.excalidraw.md",
-    "Week 1/1. String Manipulation/125. Valid Palindrome.md"
+    "Excalidraw/344. Reverse String.excalidraw.md"
   ]
 }
