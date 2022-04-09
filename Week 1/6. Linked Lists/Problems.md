@@ -6,14 +6,14 @@
 **Additional** **Challenges**
 
 - [x]  [https://leetcode.com/problems/reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)
-[[Reverse Linked List]]
+[[206. Reverse Linked List]]
 - [x]  [https://leetcode.com/problems/reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)
-[[Reverse Linked List II]]
+[[92. Reverse Linked List II]]
 - [x]  [https://leetcode.com/problems/odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)
-[[Odd Even Linked List]]
+[[328. Odd Even Linked List]]
 - [x]  [https://leetcode.com/problems/intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
-[[Intersection of Two Linked Lists]]
+[[160. Intersection of Two Linked Lists]]
 - [x]  [https://leetcode.com/problems/reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)
-[[Reverse Nodes in k-Group]]
+[[25. Reverse Nodes in k-Group]]
 - [x]  [https://leetcode.com/problems/lru-cache](https://leetcode.com/problems/lru-cache) (Not easy - needs doubly-linked lists and hash map to get O(1) for both ops but a relatively common interview question.)
 [[146. LRU Cache]]

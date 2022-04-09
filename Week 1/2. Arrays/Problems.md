@@ -2,7 +2,7 @@
 
 - [x]  [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/
 [[1. Two Sum]]
-
+Difficulty: <span style="color:rgb(0,255,0)">Easy</span>
   
 
 **Additional Challenges**
