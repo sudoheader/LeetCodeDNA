@@ -9,6 +9,7 @@ Difficulty: <span style="color:rgb(0,255,0)">Easy</span>
 
 - [x]  [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)
 [[200. Number Of Islands]]
+Difficulty: <span style="color:orange">Medium</span>
 - [x]  [https://leetcode.com/problems/sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity)
 [[905. Sort Array By Parity]]
 - [x]  [https://leetcode.com/problems/transpose-matrix](https://leetcode.com/problems/transpose-matrix)

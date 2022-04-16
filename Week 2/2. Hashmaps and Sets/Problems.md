@@ -43,7 +43,7 @@
 - [ ]  [https://leetcode.com/problems/find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)
 
 - [ ]  [https://leetcode.com/problems/first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)
-[[387. First Unique Character in a String]]
+[[Week 2/2. Hashmaps and Sets/387. First Unique Character in a String]]
 - [ ]  [https://leetcode.com/problems/subdomain-visit-count](https://leetcode.com/problems/subdomain-visit-count)
 
 - [ ]  [https://leetcode.com/problems/find-the-difference](https://leetcode.com/problems/find-the-difference)
